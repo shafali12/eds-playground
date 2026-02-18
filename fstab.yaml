@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/shafali12/eds-playground/main"
+    url: "https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/shafali12/eds-playground/main/content/eds-play/language-master"
     type: "markup"
     suffix: ".html"
