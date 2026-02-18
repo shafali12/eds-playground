@@ -2,5 +2,9 @@
   "mappings": [
     "/content/eds-play/language-master/en/:/",
     "/content/eds-play/language-master/fr/:/fr/"
+  ],
+  "includes": [
+    "/content/eds-play/language-master/"
   ]
+
 }
